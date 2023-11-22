@@ -226,7 +226,6 @@ plugins:
   - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
-  - gh-pages
 
 # Sitemap settings
 defaults:
